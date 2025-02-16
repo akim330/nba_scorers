@@ -10,9 +10,7 @@ The chart below (`Figure_1.png`) shows players' shot attempts per game (volume) 
 - **Offensive Scrubs:** Low efficiency, low volume
 - **Chuckers:** Low efficiency, high volume
 
-```markdown
 ![The Best NBA Scorers](Figure_1.png)
-```
 
 ## Data Processing Steps
 - Merged `scoring_2_19.csv` and `fouls_2_19.csv` by player name.
